@@ -1,7 +1,7 @@
 Szczęść Boże!
 Witam na profilu z projektami w różnych językach skryptowych/programowania/bazodanowymi tj. PHP, JavaScript, C++, Python, SQL. Oczywiście nie zabraknie też HTML-u, CSS-a. Stale się rozwijam i uczę na błędach, więc niedługo pojawi się coś "mocniejszego". 
 
-Linki do innych projektów:
+Linki do innych projektów, które współtworzyłem:
 https://github.com/toci888/toci_intotech_wheelo
 https://github.com/toci888/toci_intotech_workmesh
 
